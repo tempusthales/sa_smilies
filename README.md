@@ -21,4 +21,4 @@ Then copy that url into the space provided in guilded and it will automatically 
 # Special Thanks!
 **DerVerrater**, **IAmKale** & **TheSlowHipster** for brainstorming and lending a hand.
 
-This project is made with Unicorns, Rainbows and Ponies in **Goondor** and Powered by **Goonunism**.
+This project is made with with the blood of unicorns, ponies and the color of rainbows in **Goondor** and powered by **Goonunism**.
