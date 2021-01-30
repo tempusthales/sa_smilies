@@ -1,0 +1,122 @@
+{
+    "name": "Something Awful Smilies",
+    "author": "Tempus Thales",
+    "emotes": [
+        {
+            "name": ":thumbsup:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-thumbsup.gif"
+        },
+        {
+            "name": ":troll:",
+            "url": "https://fi.somethingawful.com/safs/smilies/9/f/troll.001.png"
+        },
+        {
+            "name": ":ughh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-ughh.gif"
+        },
+        {
+            "name": ":uhaul:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-uhaul.gif"
+        },
+        {
+            "name": ":unsmigghh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-unsmigghh.gif"
+        },
+        {
+            "name": ":unsmith:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-unsmith.gif"
+        },
+        {
+            "name": ":viconia:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-viconia.gif"
+        },
+        {
+            "name": ":wink:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-wink.gif"
+        },
+        {
+            "name": ":wmwink:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-wmwink.png"
+        },
+        {
+            "name": ":wooper:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-wooper.gif"
+        },
+        {
+            "name": ":wotwot:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-wotwot.gif"
+        },
+        {
+            "name": ":yayclod:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/7/yayclod.001.png"
+        },
+        {
+            "name": ":yaycloud:",
+            "url": "https://fi.somethingawful.com/safs/smilies/a/4/yaycloud.001.gif"
+        },
+        {
+            "name": ":yosbutt:",
+            "url": "https://fi.somethingawful.com/safs/smilies/5/8/yosbutt.001.gif"
+        },
+        {
+            "name": ":911:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-911.gif"
+        },
+        {
+            "name": ":anarchists:",
+            "url": "https://fi.somethingawful.com/safs/smilies/2/d/anarchists.001.gif"
+        },
+        {
+            "name": ":ancap:",
+            "url": "https://fi.somethingawful.com/safs/smilies/5/4/ancap.001.gif"
+        },
+        {
+            "name": ":australia:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-australia.gif"
+        },
+        {
+            "name": ":beck:",
+            "url": "https://fi.somethingawful.com/safs/smilies/9/0/beck.001.gif"
+        },
+        {
+            "name": ":belarus:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-belarus.gif"
+        },
+        {
+            "name": ":britain:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-britain.gif"
+        },
+        {
+            "name": ":ca:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-ca.gif"
+        },
+        {
+            "name": ":canada:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-canada.gif"
+        },
+        {
+            "name": ":cheat:",
+            "url": "https://fi.somethingawful.com/safs/smilies/5/e/cheat.001.gif"
+        },
+        {
+            "name": ":china:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-china.gif"
+        },
+        {
+            "name": ":denmark:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-denmark.gif"
+        },
+        {
+            "name": ":ese:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-ese.gif"
+        },
+        {
+            "name": ":eurovision:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-eurovision.png"
+        },
+        {
+            "name": ":finland:",
+            "url": "https://fi.somethingawful.com/safs/smilies/d/0/finland.001.gif"
+        }
+    ]
+}

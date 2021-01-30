@@ -1,0 +1,122 @@
+{
+    "name": "Something Awful Smilies",
+    "author": "Tempus Thales",
+    "emotes": [
+        {
+            "name": ":doit:",
+            "url": "https://fi.somethingawful.com/images/smilies/smileydoit.png"
+        },
+        {
+            "name": ":downs:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-downs.gif"
+        },
+        {
+            "name": ":downsgun:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-downsgun.gif"
+        },
+        {
+            "name": ":downswords:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-downswords.gif"
+        },
+        {
+            "name": ":drac:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-drac.gif"
+        },
+        {
+            "name": ":dukedoge:",
+            "url": "https://fi.somethingawful.com/images/smilies/dukedoge.png"
+        },
+        {
+            "name": ":eek:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-eek.gif"
+        },
+        {
+            "name": ":emo:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-emo.gif"
+        },
+        {
+            "name": ":eng101:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-eng101.gif"
+        },
+        {
+            "name": ":eng99:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-eng99.gif"
+        },
+        {
+            "name": ":engleft:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-engleft.gif"
+        },
+        {
+            "name": ":eyepop:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/a/eyepop.001.gif"
+        },
+        {
+            "name": ":f5:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-f5.gif"
+        },
+        {
+            "name": ":f5h:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-f5h.gif"
+        },
+        {
+            "name": ":fap:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-fappery.gif"
+        },
+        {
+            "name": ":fedora:",
+            "url": "https://fi.somethingawful.com/safs/smilies/1/8/fedora.001.png"
+        },
+        {
+            "name": ":fh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-fh.gif"
+        },
+        {
+            "name": ":flame:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-flame.gif"
+        },
+        {
+            "name": ":fork:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-fork.png"
+        },
+        {
+            "name": ":frogdunce:",
+            "url": "https://fi.somethingawful.com/images/smilies/frogdunce.gif"
+        },
+        {
+            "name": ":fyh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-FYH.gif"
+        },
+        {
+            "name": ":gamefreak:",
+            "url": "https://fi.somethingawful.com/safs/smilies/d/b/gamefreak.001.png"
+        },
+        {
+            "name": ":gaming:",
+            "url": "https://fi.somethingawful.com/images/smilies/gaming.gif"
+        },
+        {
+            "name": ":garak:",
+            "url": "https://fi.somethingawful.com/images/smilies/garak.gif"
+        },
+        {
+            "name": ":gary:",
+            "url": "https://i.somethingawful.com/u/adminuploads/smileys/gary.gif"
+        },
+        {
+            "name": ":gay:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-gay.gif"
+        },
+        {
+            "name": ":geno:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-geno.gif"
+        },
+        {
+            "name": ":geoduck:",
+            "url": "https://fi.somethingawful.com/images/smilies/geoduck.gif"
+        },
+        {
+            "name": ":gerty:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/4/gerty.001.png"
+        }
+    ]
+}

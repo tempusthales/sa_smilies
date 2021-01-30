@@ -1,0 +1,122 @@
+{
+    "name": "Something Awful Smilies",
+    "author": "Tempus Thales",
+    "emotes": [
+        {
+            "name": ":reject:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-reject.gif"
+        },
+        {
+            "name": ":respek:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-respek.gif"
+        },
+        {
+            "name": ":rimshot:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-rimshot.gif"
+        },
+        {
+            "name": ":robble:",
+            "url": "https://i.somethingawful.com/u/garbageday/2015/Phriday/Hamburglar/robble.gif"
+        },
+        {
+            "name": ":roboluv:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-roboluv.gif"
+        },
+        {
+            "name": ":rock:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-rock.gif"
+        },
+        {
+            "name": ":roflolmao:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-roflolmao.gif"
+        },
+        {
+            "name": ":rolleye:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-rolleye.gif"
+        },
+        {
+            "name": ":rolleyes:",
+            "url": "https://fi.somethingawful.com/images/smilies/rolleyes.gif"
+        },
+        {
+            "name": ":saddowns:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-saddowns.gif"
+        },
+        {
+            "name": ":sadwave:",
+            "url": "https://fi.somethingawful.com/safs/smilies/2/e/sadwave.001.gif"
+        },
+        {
+            "name": ":sassargh:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/7/sassargh.001.gif"
+        },
+        {
+            "name": ":sax:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-sax.gif"
+        },
+        {
+            "name": ":science:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-science.gif"
+        },
+        {
+            "name": ":shepspends:",
+            "url": "https://fi.somethingawful.com/safs/smilies/8/c/shepspends.001.gif"
+        },
+        {
+            "name": ":shlick:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-shlick.gif"
+        },
+        {
+            "name": ":shobon:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-shobon.gif"
+        },
+        {
+            "name": ":shrek:",
+            "url": "https://fi.somethingawful.com/images/smilies/shrek.gif"
+        },
+        {
+            "name": ":shrug:",
+            "url": "https://fi.somethingawful.com/safs/smilies/4/1/shrug.001.gif"
+        },
+        {
+            "name": ":sickos:",
+            "url": "https://fi.somethingawful.com/safs/smilies/2/a/yeshaha.001.gif"
+        },
+        {
+            "name": ":sigh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-sigh.gif"
+        },
+        {
+            "name": ":silent:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-silent.gif"
+        },
+        {
+            "name": ":siren:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-siren.gif"
+        },
+        {
+            "name": ":slick:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-slick.gif"
+        },
+        {
+            "name": ":slime:",
+            "url": "https://fi.somethingawful.com/images/smilies/slime.gif"
+        },
+        {
+            "name": ":sludgepal:",
+            "url": "https://i.somethingawful.com/u/adminuploads/smileys/sludgepal.gif"
+        },
+        {
+            "name": ":smugdon:",
+            "url": "https://fi.somethingawful.com//images/smilies/smugdon.png"
+        },
+        {
+            "name": ":smuggo:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-smuggo.gif"
+        },
+        {
+            "name": ":smugjones:",
+            "url": "https://fi.somethingawful.com/safs/smilies/a/b/smugjones.001.gif"
+        }
+    ]
+}

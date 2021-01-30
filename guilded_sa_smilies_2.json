@@ -1,0 +1,122 @@
+{
+    "name": "Something Awful Smilies",
+    "author": "Tempus Thales",
+    "emotes": [
+        {
+            "name": ":classiclol:",
+            "url": "https://fi.somethingawful.com/safs/smilies/a/8/classiclol.001.gif"
+        },
+        {
+            "name": ":clint:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-clint.gif"
+        },
+        {
+            "name": ":coal:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-coal.gif"
+        },
+        {
+            "name": ":coffee:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-coffee.gif"
+        },
+        {
+            "name": ":colbert:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-colbert.gif"
+        },
+        {
+            "name": ":comeback:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-comeback.gif"
+        },
+        {
+            "name": ":commissar:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-commissar.gif"
+        },
+        {
+            "name": ":confuoot:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/d/confuoot.001.gif"
+        },
+        {
+            "name": ":confused:",
+            "url": "https://fi.somethingawful.com/images/smilies/confused.gif"
+        },
+        {
+            "name": ":cool:",
+            "url": "https://fi.somethingawful.com/images/smilies/cool.gif"
+        },
+        {
+            "name": ":coolfish:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-coolfish.gif"
+        },
+        {
+            "name": ":coolslime:",
+            "url": "https://fi.somethingawful.com/images/smilies/coolslime.gif"
+        },
+        {
+            "name": ":cop:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-cop.gif"
+        },
+        {
+            "name": ":coronatoot:",
+            "url": "https://fi.somethingawful.com/images/smilies/coronatoot.gif"
+        },
+        {
+            "name": ":crackping:",
+            "url": "https://fi.somethingawful.com/images/smilies/crackping.gif"
+        },
+        {
+            "name": ":crossarms:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-crossarms.gif"
+        },
+        {
+            "name": ":cry:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-crying.gif"
+        },
+        {
+            "name": ":cthulhu:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-cthulhu.gif"
+        },
+        {
+            "name": ":D",
+            "url": "https://fi.somethingawful.com/images/smilies/biggrin.gif"
+        },
+        {
+            "name": ":d2a:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-d2a.png"
+        },
+        {
+            "name": ":dafuq:",
+            "url": "https://fi.somethingawful.com/safs/smilies/1/5/dafuqbig.png"
+        },
+        {
+            "name": ":dance:",
+            "url": "https://i.somethingawful.com/images/emot-dance.gif"
+        },
+        {
+            "name": ":derp:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-derp.gif"
+        },
+        {
+            "name": ":derptiel:",
+            "url": "https://fi.somethingawful.com/images/smilies/derptieltrans.gif"
+        },
+        {
+            "name": ":devil:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-devil.gif"
+        },
+        {
+            "name": ":dings:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-dings.gif"
+        },
+        {
+            "name": ":discourse:",
+            "url": "https://fi.somethingawful.com/images/smilies/discoursechef.png"
+        },
+        {
+            "name": ":dogbutton:",
+            "url": "https://i.somethingawful.com/u/garbageday/2015/Avatars/dogbutton.gif"
+        },
+        {
+            "name": ":doh:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-doh.gif"
+        }
+    ]
+}

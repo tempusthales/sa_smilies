@@ -1,0 +1,122 @@
+{
+    "name": "Something Awful Smilies",
+    "author": "Tempus Thales",
+    "emotes": [
+        {
+            "name": ":barf:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-barf.gif"
+        },
+        {
+            "name": ":boonie:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-boonie.gif"
+        },
+        {
+            "name": ":bravo:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-bravo.gif"
+        },
+        {
+            "name": ":btroll:",
+            "url": "https://fi.somethingawful.com/images/smilies/emot-buttertroll.gif"
+        },
+        {
+            "name": ":buddy:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-buddy.gif"
+        },
+        {
+            "name": ":byobear:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-byobear.gif"
+        },
+        {
+            "name": ":byodame:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-byodame.gif"
+        },
+        {
+            "name": ":byodood:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-byodood.gif"
+        },
+        {
+            "name": ":c00l:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-c00l.gif"
+        },
+        {
+            "name": ":c00lbert:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-c00lbert.gif"
+        },
+        {
+            "name": ":cabot:",
+            "url": "https://fi.somethingawful.com/safs/smilies/3/9/cabot.001.png"
+        },
+        {
+            "name": ":can:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-can.gif"
+        },
+        {
+            "name": ":catbert:",
+            "url": "https://fi.somethingawful.com/safs/smilies/2/3/catbert.001.gif"
+        },
+        {
+            "name": ":catstare:",
+            "url": "https://fi.somethingawful.com/safs/smilies/2/4/catstare.001.gif"
+        },
+        {
+            "name": ":ccb:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-ccb.gif"
+        },
+        {
+            "name": ":chiefsay:",
+            "url": "https://fi.somethingawful.com/safs/smilies/1/c/chiefsay.001.gif"
+        },
+        {
+            "name": ":chord:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-chord.gif"
+        },
+        {
+            "name": ":corsair:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-corsair.gif"
+        },
+        {
+            "name": ":cripes:",
+            "url": "https://fi.somethingawful.com/safs/smilies/d/0/cripes.001.gif"
+        },
+        {
+            "name": ":crow:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-crow.gif"
+        },
+        {
+            "name": ":dawkins101:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-Dawkins102.gif"
+        },
+        {
+            "name": ":devilchild:",
+            "url": "https://fi.somethingawful.com/safs/smilies/8/7/devilchild.001.gif"
+        },
+        {
+            "name": ":dogout:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-dogout.gif"
+        },
+        {
+            "name": ":dong:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-dong.gif"
+        },
+        {
+            "name": ":douche:",
+            "url": "https://fi.somethingawful.com/safs/smilies/0/d/douche.001.gif"
+        },
+        {
+            "name": ":downsbravo:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-downsbravo.gif"
+        },
+        {
+            "name": ":downsrim:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-downsrim.gif"
+        },
+        {
+            "name": ":drum:",
+            "url": "https://i.somethingawful.com/forumsystem/emoticons/emot-drum.gif"
+        },
+        {
+            "name": ":duckie:",
+            "url": "https://fi.somethingawful.com/safs/smilies/7/1/duckie.001.gif"
+        }
+    ]
+}
