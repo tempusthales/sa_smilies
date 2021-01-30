@@ -3,119 +3,119 @@
     "author": "Tempus Thales",
     "emotes": [
         {
-            "name": ":distonk:",
+            "name": "distonk",
             "url": "https://fi.somethingawful.com/safs/smilies/c/d/distonk.001.png"
         },
         {
-            "name": ":dksays:",
+            "name": "dksays",
             "url": "https://fi.somethingawful.com/safs/smilies/2/b/dksays.001.gif"
         },
         {
-            "name": ":dogcited:",
+            "name": "dogcited",
             "url": "https://fi.somethingawful.com/safs/smilies/f/3/dogcited.001.gif"
         },
         {
-            "name": ":dogge:",
+            "name": "dogge",
             "url": "https://fi.somethingawful.com/safs/smilies/6/4/dogge.001.jpg"
         },
         {
-            "name": ":doggo:",
+            "name": "doggo",
             "url": "https://fi.somethingawful.com/safs/smilies/6/f/doggo.001.png"
         },
         {
-            "name": ":dogtits:",
+            "name": "dogtits",
             "url": "https://fi.somethingawful.com/safs/smilies/c/a/dogtits.001.gif"
         },
         {
-            "name": ":dogwhistle:",
+            "name": "dogwhistle",
             "url": "https://fi.somethingawful.com/safs/smilies/9/2/dogwhistle.001.gif"
         },
         {
-            "name": ":downsa:",
+            "name": "downsa",
             "url": "https://fi.somethingawful.com/safs/smilies/9/d/downsa.001.png"
         },
         {
-            "name": ":duckroll:",
+            "name": "duckroll",
             "url": "https://fi.somethingawful.com/safs/smilies/6/d/duckroll.001.gif"
         },
         {
-            "name": ":dudsmile:",
+            "name": "dudsmile",
             "url": "https://fi.somethingawful.com/safs/smilies/8/6/dudsmile.001.gif"
         },
         {
-            "name": ":dunkedon:",
+            "name": "dunkedon",
             "url": "https://fi.somethingawful.com/safs/smilies/d/2/dunkedon.001.gif"
         },
         {
-            "name": ":dva:",
+            "name": "dva",
             "url": "https://fi.somethingawful.com/safs/smilies/5/e/dva.001.gif"
         },
         {
-            "name": ":egosoft:",
+            "name": "egosoft",
             "url": "https://fi.somethingawful.com/safs/smilies/a/e/egosoft.001.gif"
         },
         {
-            "name": ":elongate:",
+            "name": "elongate",
             "url": "https://fi.somethingawful.com/safs/smilies/7/f/elongate.001.gif"
         },
         {
-            "name": ":emptyquote:",
+            "name": "emptyquote",
             "url": "https://fi.somethingawful.com/safs/smilies/f/f/emptyquote.001.png"
         },
         {
-            "name": ":emptyquote:",
+            "name": "emptyquote",
             "url": "https://fi.somethingawful.com/safs/smilies/f/f/emptyquote.002.png"
         },
         {
-            "name": ":enkidel:",
+            "name": "enkidel",
             "url": "https://fi.somethingawful.com/safs/smilies/b/4/enkidel.001.png"
         },
         {
-            "name": ":eonwe:",
+            "name": "eonwe",
             "url": "https://fi.somethingawful.com/safs/smilies/3/3/eonwe.001.gif"
         },
         {
-            "name": ":evilbuddy:",
+            "name": "evilbuddy",
             "url": "https://fi.somethingawful.com/safs/smilies/5/0/evilbuddy.001.gif"
         },
         {
-            "name": ":eyepoop:",
+            "name": "eyepoop",
             "url": "https://fi.somethingawful.com/safs/smilies/1/2/eyepoop.001.gif"
         },
         {
-            "name": ":fag:",
+            "name": "fag",
             "url": "https://fi.somethingawful.com/safs/smilies/9/e/fag.001.gif"
         },
         {
-            "name": ":farf:",
+            "name": "farf",
             "url": "https://fi.somethingawful.com/safs/smilies/f/1/farf.001.gif"
         },
         {
-            "name": ":fart:",
+            "name": "fart",
             "url": "https://fi.somethingawful.com/safs/smilies/d/6/fart.001.gif"
         },
         {
-            "name": ":fatshark:",
+            "name": "fatshark",
             "url": "https://fi.somethingawful.com/safs/smilies/4/9/fatshark.001.gif"
         },
         {
-            "name": ":feart:",
+            "name": "feart",
             "url": "https://fi.somethingawful.com/safs/smilies/d/3/feart.001.gif"
         },
         {
-            "name": ":feck:",
+            "name": "feck",
             "url": "https://fi.somethingawful.com/safs/smilies/2/3/feck.001.gif"
         },
         {
-            "name": ":feelings:",
+            "name": "feelings",
             "url": "https://fi.somethingawful.com/safs/smilies/3/b/feelings.001.png"
         },
         {
-            "name": ":females:",
+            "name": "females",
             "url": "https://fi.somethingawful.com/safs/smilies/d/9/females.001.png"
         },
         {
-            "name": ":ffg:",
+            "name": "ffg",
             "url": "https://fi.somethingawful.com/safs/smilies/4/4/ffg.001.gif"
         }
     ]
