@@ -11,14 +11,13 @@ So I build this collection of "packs" for all the smilies in Something Awful For
  
 3. Then you can paste it into Guilded by copying the location where the packs are located into Settings > Emotes > Import an external emote pack
 4. Paste a link to the emote pack you want to import
-
-
-Example: 
-If the URL where you copied the emote packs to looks like this: https://server.domain.name/packs/sa_smilies-1.json or https://server.ip.address/packs/sa_smilies-1&type=json
-
-Then copy that url into the space provided in guilded and it will automatically upload the pack you linked.  Each pack contains 30 smilies, so if you wanted to add all 1176 Smilies you need to do this 40 times. :P
+5. Then copy that url into the space provided in guilded and it will automatically upload the pack you linked.  Each pack contains 30 smilies, so if you wanted to add all 1176 Smilies you need to do this 40 times. :P
 
 # Special Thanks!
 **DerVerrater**, **IAmKale** & **TheSlowHipster** for brainstorming and lending a hand.
 
 This project is made with with the blood of unicorns, ponies and the color of rainbows in **Goondor** and powered by **Goonunism**.
+
+If you are a Goon you can reach me at **Bad Games Crew Server** which you can search via https://goondiscordnetwork.com 
+
+o7
