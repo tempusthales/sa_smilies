@@ -9,7 +9,7 @@ So I build this collection of "packs" for all the smilies in Something Awful For
 0. Git clone this repository on the server you are going to host the files into. You can't do it from a local machine, it has to pull from a server because :reasons:.
 1. After you upload to your server, then just paste the path to the file into Guilded by copying the location where the packs are located into Settings > Emotes > Import an external emote pack.  
 
-   Example: if you uploaded the files to your server called dumbgoon.com then https://dumbgoon.com/guilded_sa_smilies_0.json and paste this into the spot provided. The file will import, and you will need to repeat this again with the each of the other files.
+_Example: if you uploaded the files to your server called dumbgoon.com then https://dumbgoon.com/guilded_sa_smilies_0.json and paste this into the spot provided. The file will import, and you will need to repeat this again with the each of the other files._
 
 2. Each pack contains 30 smilies, so if you wanted to add all 1176 Smilies you need to do this 40 times. :P
 
