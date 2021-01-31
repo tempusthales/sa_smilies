@@ -1,6 +1,6 @@
 # Something Awful Smilies JSON for Guilded
 
-I got tired of having to manually import all 1176 Smilies from the Forums of Something Awful by hand into Guilded
+I got tired of having to manually import all 1360 Smilies from the Forums of Something Awful by hand into Guilded
 
 So I build this collection of "packs" for all the smilies in Something Awful Forums.
 
@@ -11,9 +11,11 @@ So I build this collection of "packs" for all the smilies in Something Awful For
 
 _Example: if you uploaded the files to your server called dumbgoon.com then https://dumbgoon.com/guilded_sa_smilies_0.json and paste this into the spot provided. The file will import, and you will need to repeat this again with the each of the other files._
 
-2. Each pack contains 30 smilies, so if you wanted to add all 1176 Smilies you need to do this 40 times. :P
+2. Each pack contains 30 smilies, so if you wanted to add all 1360 Smilies you need to do this 40 times. :P
 
 FYI I dont plan to identify all the smilies for you, if you look at the json you can see which is which.  Also if you get these files from else where I am not responsible for whatever happens to your server.
+
+PS. Smilie Pack #20 is missing the emoji :yosbutt: because the gif animation is giving Guilded a problem and doesnt upload.  Will be patching this with a new gif shortly.
 
 # Special Thanks!
 **DerVerrater**, **IAmKale** & **TheSlowHipster** for brainstorming and lending a hand.
